@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel. My pronouns are they/them and I'm Brazilian
+- 👋 Hi, I’m Miguel. I'm 20 years old, my pronouns are they/them and I'm Brazilian
 - 👀 Games and HTML programming and Design. I also love cinema and reading 
 - 🌱 I’m currently learning Java and C#
 - 💞️ I'm looking for spaces to learn with people who know more than me
