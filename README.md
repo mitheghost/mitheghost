@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java and C#
 - 💞️ I'm looking for spaces to learn with people who know more than me
 - 📫 @mitheghost on twitter
-- I do not interact with transphobes or ableist people or anyone who practises discriminantion of any kind. I don't care if "is just a joke". 
+- I do not interact with transphobes or ableist people or anyone who practises discriminantion of any kind. I don't care if "it's just a joke". 
