@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel. I'm a 20 years old begginer programmer, my pronouns are they/them and I'm Brazilian. I'm also autistic and non binary
+- 👋 Hi, I’m Miguel. I'm a 20 years old brazilian begginer programmer, my pronouns are they/them. I'm also autistic and non binary
 - 👀 I'm intersted in Games and HTML programming and Design. I also love cinema and reading 
 - 🌱 I’m currently learning Java and C#
 - 💞️ I'm looking for spaces to learn with people who know more than me
